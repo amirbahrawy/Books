@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Books</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first1">How to Build Motorcycle-engined Racing Cars</string>
+    <string name="first2">Tony Pashley</string>
+    <string name="first3">2008-07-15</string>
+    <string name="second1">A to Z of Sports Cars,1945-1990</string>
+    <string name="second2">Mike Lawrence</string>
+    <string name="second3">1996</string>
+    <string name="third1">Cars Inside and Out</string>
+    <string name="third2">Chirs Oxlade</string>
+    <string name="third3">2009-01-01</string>
+    <string name="forth1">Plastic Toy Cars of the 1950s and 1960s</string>
+    <string name="forth2">andrew Ralston</string>
+    <string name="forth3">2007</string>
+
+
+</resources>
